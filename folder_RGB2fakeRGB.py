@@ -1,4 +1,4 @@
-import image_utils as iu
+import basic_utils as iu
 import os
 
 

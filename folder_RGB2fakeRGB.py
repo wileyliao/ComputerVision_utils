@@ -1,4 +1,4 @@
-import CV_basic_utils as iu
+import CV_Basic_utils as iu
 import os
 
 
